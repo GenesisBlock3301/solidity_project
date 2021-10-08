@@ -1,1 +1,3 @@
 # solidity_project
+
+Solidity is an object-oriented programming language for writing smart contracts. It is used for implementing smart contracts on various blockchain platforms, most notably, Ethereum. It was developed by Christian Reitwiessner, Alex Beregszaszi, and several former Ethereum core contributors to enable writing smart contracts on blockchain platforms such as Ethereum. The programs compiled by the Solidity are intended to be run on Ethereum Virtual Machine.
